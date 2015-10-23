@@ -1,0 +1,17 @@
+{
+  "C:\\Users\\BHans\\Desktop\\CS\\CloudDev\\Cloud\\src": {
+    "location": "C:\\Users\\BHans\\Desktop\\CS\\CloudDev\\Cloud\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\BHans\\Desktop\\CS\\CloudDev\\Cloud\\src\u0027. Skipped."
+  },
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "RESOLVED"
+  },
+  "C:\\Users\\BHans\\Desktop\\CS\\Projects\\CloudDev\\Cloud\\src": {
+    "location": "C:\\Users\\BHans\\Desktop\\CS\\Projects\\CloudDev\\Cloud\\src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\BHans\\Desktop\\CS\\Projects\\CloudDev\\Cloud\\src\u0027. Skipped."
+  }
+}
